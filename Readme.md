@@ -6,7 +6,7 @@
 
 1. Name your glyphs according to their position in FontForge , adding underscore in front , example: [ _1 for ! ]. List [here](https://github.com/retr0atelier/Importer/blob/importer/Glyphs).  
 2. Save Latin glyphs in one folder and Latin-Supplement in an other.
-3. Import the first glyph in FontForge leaving it selected.  
+3. Import the first glyph in FontForge manualy, leaving it selected.  
 4. Open Importer, make sure it's on top of FontForge.  
 5. Type Document name: [fontname FontForge] and number of glyphs you want to import.  
 6. Submit.  
