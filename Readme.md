@@ -4,12 +4,12 @@
 
 # How to use
 
-1.Name your glyphs according to their position in FontForge , adding underscore in front,exemple:[_1.svg for ! ]. List [here](https://github.com/retr0atelier/Importer/blob/importer/Glyphs).  
-2.Import the first glyph in FontForge leaving it selected.  
-3.Open Importer, make sure it's on top of FontForge.  
-4.Type Document name: [fontname FontForge] and number of glyphs you want to import.  
-5.Submit.  
-6.Don't touch anything.  
+1. Name your glyphs according to their position in FontForge , adding underscore in front , exemple:[_1.svg for ! ]. List [here](https://github.com/retr0atelier/Importer/blob/importer/Glyphs).  
+2. Import the first glyph in FontForge leaving it selected.  
+3. Open Importer, make sure it's on top of FontForge.  
+4. Type Document name: [fontname FontForge] and number of glyphs you want to import.  
+5. Submit.  
+6. Don't touch anything.  
 
 ## Source files
 
