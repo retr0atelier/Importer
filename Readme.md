@@ -1,6 +1,6 @@
 # Importer
 
-[Importer](https://github.com/retr0atelier/Importer) is a software, designed to automate the glpy importing process in FontForge.
+[Importer](https://github.com/retr0atelier/Importer) is a software, designed to automate the glyph importing process in FontForge.
 
 # How to use
 
@@ -8,7 +8,7 @@
 2.Import the first glyph in FontForge leaving it selected.
 3.Open Importer, make sure it's on top of FontForge.
 4.Type Document name: [fontname FontForge] and number of glyphs you want to import.
-5.Submit
+5.Submit.
 6.Don't touch anything.
 
 ## Source files
