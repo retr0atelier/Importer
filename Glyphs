@@ -1,0 +1,11 @@
+#Latin:
+
+Lowercase a-z : 65-90
+Uppercase A-Z : 33 - 58
+Numbers 0-9 : 16-25
+Symbols: 1-15 , 26-32, 59-64 , 91-94
+
+#Latin-supplement:
+
+Accents: 32-54 , 56 - 86 , 88-95
+Symbols: 1-31 , 55 , 87
