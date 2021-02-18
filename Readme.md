@@ -13,7 +13,7 @@
 
 ## Source files
 
-Source files are available for download or alterations in the [repository's 'Importer' branch](https://github.com/retr0atelier/Importer/tree/importer/source)
+Source files are available for download or alterations in the [repository's 'Importer' branch](https://github.com/retr0atelier/Importer/tree/importer/source).
 
 Available files:
 
